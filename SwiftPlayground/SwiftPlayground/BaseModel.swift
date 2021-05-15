@@ -9,5 +9,7 @@
 import UIKit
 
 class BaseModel: NSObject {
+    
+    var identification : String?
 
 }
